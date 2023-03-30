@@ -45,13 +45,3 @@ input[type="text"] {
 .spanTwo {
   grid-column: span 2;
 }
-
-/* @keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-
-  to {
-    transform: rotate(360deg);
-  }
-} */
