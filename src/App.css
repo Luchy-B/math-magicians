@@ -30,6 +30,8 @@ button {
 }
 
 .display {
+  display: flex;
+  justify-content: flex-end;
   height: 40px;
   width: 304px;
   background-color: grey;
