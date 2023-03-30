@@ -39,10 +39,6 @@ Fullstack developer: includes both front end and Backend developer.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Live Demo: (https://luchy-b.github.io/math-magicians/dist/)
-
-### Video Presentation: (https://drive.google.com/file/d/1iYIwJG1-8zsu9BqkS0PrSJntwEy5Qs6W/view?usp=share_link)
-
 ## 💻 Getting Started <a name="getting-started"></a>
 
 To get a local copy up and running, follow these steps.
@@ -52,7 +48,16 @@ https://github.com/Luchy-B/math-magicians
 
 Clone this repository to your desired folder:
 
-https://github.com/Luchy-B/math-magicians
+```sh
+git clone https://github.com/Luchy-B/math-magicians.git
+```
+
+### Install
+install this project with:
+ 
+```sh
+npm install
+```
 
 ### Prerequisites
 
@@ -65,13 +70,17 @@ In order to run this project you need:
 
 To run the project, execute the following command:
 
-live server
+```sh
+npm start
+```
 
 ### Run tests
 
 To run tests, run the following command:
 
-- run npm start
+```sh
+npm run test
+```
 
 ## 👥 Authors <a name="authors"></a>
 
