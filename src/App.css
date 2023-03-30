@@ -29,9 +29,9 @@ button {
   font-weight: 600;
 }
 
-input[type="text"] {
+.display {
   height: 40px;
-  width: 300px;
+  width: 304px;
   background-color: grey;
   border: 0;
   color: #fff;
