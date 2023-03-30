@@ -54,7 +54,7 @@ git clone https://github.com/Luchy-B/math-magicians.git
 
 ### Install
 install this project with:
- 
+
 ```sh
 npm install
 ```
@@ -103,6 +103,7 @@ npm run test
 ## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
+Feel free to check the[issues page](../../issues/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
