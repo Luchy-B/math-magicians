@@ -30,14 +30,19 @@ button {
 }
 
 .display {
-  display: flex;
-  justify-content: flex-end;
+  /* display: flex;
+  justify-content: flex-end; */
   height: 40px;
   width: 304px;
   background-color: grey;
   border: 0;
   color: #fff;
   cursor: default;
+  text-align: right;
+}
+
+.display p {
+  padding: 10px 20px 0 0;
 }
 
 .operator {
