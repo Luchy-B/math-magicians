@@ -23,6 +23,7 @@
     "ignorePatterns": [
       "dist/",
       "build/"
-    ]
+    ],
+    "import/no-extraneous-dependencies": "off"
   }
   

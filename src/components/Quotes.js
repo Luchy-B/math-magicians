@@ -1,4 +1,3 @@
-/* eslint-disable linebreak-style */
 import React, { useState, useEffect } from 'react';
 
 function Quote() {
@@ -49,7 +48,6 @@ function Quote() {
       <center>
         <div className="myQuote">
           <p className="my-quote">{quote}</p>
-          {/* <p className="my-author">{myAuthor}</p> */}
           {hasError && <p className="my-error">{hasError}</p>}
         </div>
       </center>
