@@ -1,17 +1,23 @@
 body {
-  display: flex;
+  /* display: flex;
   justify-content: center;
   align-items: center;
+  width: 100%; */
+  background-color: rgb(6, 6, 42);
 }
 
 .container {
-  top: 50%;
-  left: 50%;
-  position: absolute;
-  transform: translate(-50%, -50%);
-  margin: 0 auto;
+  display: flex;
+  justify-content: space-around;
   text-align: center;
-  width: 304px;
+  width: 100%;
+  margin: 40px;
+}
+
+.ContainerText {
+  width: 100%;
+  padding-left: 250px;
+  color: rgb(0, 170, 255);
 }
 
 .keypad {
@@ -29,20 +35,20 @@ button {
   font-weight: 600;
 }
 
+.displayContainer {
+  width: 50%;
+  padding-right: 250px;
+}
+
 .display {
-  /* display: flex;
-  justify-content: flex-end; */
-  height: 40px;
-  width: 304px;
+  display: flex;
+  justify-content: flex-end;
+  width: 100%;
   background-color: grey;
   border: 0;
   color: #fff;
   cursor: default;
   text-align: right;
-}
-
-.display p {
-  padding: 10px 20px 0 0;
 }
 
 .operator {

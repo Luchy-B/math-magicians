@@ -45,9 +45,15 @@ function Quote() {
   }
 
   return (
-    <div id="">
-      <p className="">{quote}</p>
-    </div>
+    <>
+      <center>
+        <div className="myQuote">
+          <p className="my-quote">{quote}</p>
+          {/* <p className="my-author">{myAuthor}</p> */}
+          {hasError && <p className="my-error">{hasError}</p>}
+        </div>
+      </center>
+    </>
   );
 }
 
