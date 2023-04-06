@@ -1,12 +1,10 @@
 import './App.css';
-import Calculator from './components/Calculator';
-import Quote from './components/Quotes';
+import Header from './components/Header/Header';
 
 function App() {
   return (
     <>
-      <Calculator />
-      <Quote />
+      <Header />
     </>
   );
 }
