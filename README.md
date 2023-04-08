@@ -39,10 +39,8 @@ Fullstack developer: includes both front end and Backend developer.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
 ### Live Demo: 
 (https://mathmagicians-blbn.onrender.com)
-
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
